@@ -37,7 +37,7 @@ window.onload = function () {
         letters.appendChild(list);
       }
     }
-      
+      // Teste atualizaçao
     
     // CATEGORIAS
     var selectCat = function () {
