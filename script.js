@@ -217,7 +217,7 @@ window.onload = function () {
   
       var catagoryIndex = categories.indexOf(chosenCategory);
       var hintIndex = chosenCategory.indexOf(word);
-      showClue.innerHTML = "Clue: - " +  hints [catagoryIndex][hintIndex];
+      showClue.innerHTML = "Dica: - " +  hints [catagoryIndex][hintIndex];
     };
   
      // Resetar jogo
